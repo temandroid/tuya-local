@@ -1,5 +1,8 @@
 name: Thermostat
-# products:
+products:
+  - id: gc1bxoq2hafxpa35
+    model: ET-44W
+# Unconfirmed product id from the original submission:
 #   - id: e4e7k8
 #     manufacturer: TheroLife
 #     model: ET44W
